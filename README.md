@@ -1,1 +1,1 @@
-# smartFitness
+# Smart Fitness
