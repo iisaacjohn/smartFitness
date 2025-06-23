@@ -3,6 +3,10 @@
 ## Overview
 SmartFit is a user-friendly mobile application designed to help fitness newbies and enthusiasts track their workouts, create personalized routines, and monitor their progress toward fitness goals. Whether you're a beginner or a seasoned athlete, SmartFit provides tools to stay motivated and organized.
 
+## Problem Statement
+Campus gyms often experience unpredictable crowding patterns, leading to inefficient workout scheduling and poor user experience. Users need tools to better manage their gym time and access tailored fitness and nutrition guidance.
+
+
 ## Features
 * **Gym Tracking:** Track the traffic of your Gym for better planning
 * **Custom Routines:** Create and save personalized workout plans tailored to your goals.
