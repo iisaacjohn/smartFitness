@@ -21,6 +21,6 @@ SmartFit is a user-friendly mobile application designed to help fitness newbies 
 * Frontend: Flutter
 * Backend: Firebase
 * Database: Cloud Firestore (NoSQL)
-Other Tools: AI and RAG models 
+* Other Tools: YOLOv8, RAG models, and GenAI tools 
 
 #### Code is not dispalyed for security and database protection purposes.
